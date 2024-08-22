@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817546613027",
+    "firebase_url": "https://patitentflutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "patitentflutter",
+    "storage_bucket": "patitentflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817546613027:android:7b3cd2a73b0f969c2ebc96",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817546613027-l83dr994m57pohl78rf8t76nomtra12c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsJZTQOeeSrv-dvy5K6IykI8pPtuUm18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817546613027-l83dr994m57pohl78rf8t76nomtra12c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817546613027-4o9khjrum7lm7fss6csjrd3ckiv3e8hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
